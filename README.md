@@ -16,5 +16,5 @@ Run `python swapper.py` and select an option:
 0 — Exit
 
 ## Folder Structure
-Default/   ← original files
-Modified/  ← modded files
+- Default/   ← original files
+- Modified/  ← modded files
