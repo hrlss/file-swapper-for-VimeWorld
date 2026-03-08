@@ -1,9 +1,6 @@
 # file-swapper-for-VimeWorld
 file swapper for VimeWorld
 
-# file swapper for VimeWorld
-A lightweight file swapper for VimeWorld
-
 ## Features
 - Switches between Default and Modified client files
 - Supports .jar and .dll file replacement
