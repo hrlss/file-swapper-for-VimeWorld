@@ -11,9 +11,9 @@ A lightweight file swapper for VimeWorld
 
 ## Usage
 Run `python swapper.py` and select an option:
-1 — Load Default
-2 — Load Modified
-0 — Exit
+- 1 — Load Default
+- 2 — Load Modified
+- 0 — Exit
 
 ## Folder Structure
 - Default/   ← original files
